@@ -72,4 +72,5 @@ What stock is likely to perform the best over next 6 months based on historical 
 How are stocks performing compared to each other in this market segment? 
 Is there any specific seasonality that shows why this market moves?
 
+Update powerpoint presentation entering in all research results with images and writeup explaining data analysis
 
