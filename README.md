@@ -1,76 +1,45 @@
-# project_1_group_2
-Project presentation date : Monday April 22, 2024.
-Proposal Due Date: Thursday April 11 2024 (before the start of class).  One person to submit a proposal for the group.
+<H1 style="text-align: center;">Natural Juicers</H1>
+<H2 style="text-align: center;">Top 7 Solar stock performance evaluation</H2>
 
-Your Proposal must be APPROVED. Assume it is until otherwise noted to allow for you and your group to continue to work. The instructor and TA will audit this but you must be working in the mean time.
+## Executive Summary
+- data cleanup
+- data cleanup
 
-Technical Requirements:
-The technical requirements for Project 1 are as follows:
+## Project Scope
+- data cleanup
+- data cleanup
 
-Software Version Control (10 points)
-Repository is created on GitHub (2 points).
+## Software Project
+- data cleanup
+- data cleanup
 
-Files are frequently committed to the repository (3 points).
+## Data Elements
+- data dictionary? 
+- data collection
+- data cleanup
 
-Commit messages include an appropriate level of detail (2 points).
+## Technical Approach
+- data cleanup
+- data cleanup
 
-Repository is organized and includes relevant information and project files (3 points).
+## Conclusion on Analysis
+- insert here
+- insert here
 
-Documentation (10 points)
-Code is well commented with concise, relevant notes (3 points).
+## Future Projection
+- insert here
+- insert here
 
-GitHub README file includes a concise project overview (2 points).
+## Conclusion on Analysis
+- insert here
+- insert here
 
-GitHub README file includes detailed usage and installation instructions (2 points).
+## Appendix / Reference
+- any links supporting work completed
+- any tech docs utilized to help complete
 
-GitHub README includes either examples of the application, or the results and a summary of the analysis (3 points).
-
-Analysis and Conclusion (30 points)
-Findings are strongly supported with numbers and visualizations (10 points).
-
-Write-up summarizes major findings and implications at a professional level (10 points).
-
-Each question in the project proposal is answered with precise descriptions and findings (5 points).
-
-Each question response is supported with a well-discerned statistical analysis from lessons, such as aggregation, correlation, comparison, summary statistics, sentiment analysis, and time series analysis (5 points).
-
-Visualizations (20 points)
-6–8 visualizations of data (at least two per question) (10 points).
-
-Clear and accurate labeling of images (5 points).
-
-Visualizations supported with ample and precise explanation (5 points).
-
-Presentation Requirements (30 points)
-Your presentation should cover the following:
-
-An executive summary or overview of the project and project goals (5 points).
-An overview of the data collection, cleanup, and exploration processes (5 points).
-
-The approach that your group took in achieving the project goals (5 points).
-
-Any additional questions that surfaced, what your group might research next if more time was available, or share a plan for future development (5 points).
-
-The results and conclusions of the application or analysis (5 points).
-
-Slides effectively demonstrate the project (3 points).
-
-Slides are visually clean and professional (2 points).
-
-## From Google form: 
-Gale - create github project 
-Terry - capture data for analysis 
-Tatiana - Which stock is trending up or down? 
-Steven - What stock is likely to perform the best over next 6 months based on historical data? 
-Gale - How are stocks performing compared to each other in this market segment? 
-Terry - Is there any specific seasonality that shows why this market moves?
-
-Enter research questions to answer, problem to solve, workflow to enchance, ect. *
-How would you structure your initial questions to start finding answers to your project objective?
-Which stock is trending up or down? 
-What stock is likely to perform the best over next 6 months based on historical data? 
-How are stocks performing compared to each other in this market segment? 
-Is there any specific seasonality that shows why this market moves?
-
-Update powerpoint presentation entering in all research results with images and writeup explaining data analysis
+GitHub repo: https://github.com/galedione/project_1_group_2/tree/main
+Article that spawned research: https://www.nasdaq.com/articles/7-solar-stocks-to-buy-and-hold-for-a-bright-future
+Data source: https://finance.yahoo.com/
+Further research: https://www.forbes.com/advisor/investing/best-solar-power-stocks/
 
