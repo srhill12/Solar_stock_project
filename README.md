@@ -42,4 +42,5 @@ GitHub repo: https://github.com/galedione/project_1_group_2/tree/main
 Article that spawned research: https://www.nasdaq.com/articles/7-solar-stocks-to-buy-and-hold-for-a-bright-future
 Data source: https://finance.yahoo.com/
 Further research: https://www.forbes.com/advisor/investing/best-solar-power-stocks/
-
+Annotations - Matplotlib: https://matplotlib.org/stable/users/explain/text/annotations.html
+How to annotate types in a for-loop?: https://stackoverflow.com/questions/41641449/how-do-i-annotate-types-in-a-for-loop 
