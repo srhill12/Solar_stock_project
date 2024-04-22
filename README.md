@@ -61,7 +61,7 @@ This project aims to develop a data-driven approach to analyzing the stock marke
 
 
 ## Conclusion: Is there any specific seasonality that shows why this market moves?
-- Summary: 
+- Summary: Upon completion for each of the seasonality visuals utilizing prophet plot_components function we were able to take a close look at the collective results. Within this Solar market there was not a consistent seasonality identified across all 7 stocks. There is a clear pattern within weekly visual that reflects daily change and weekend stall(during times of no trading). The yearly trends for almost all stocks do show a similarity around the month of May which is correlated with the change in close prices for all companies. The reality for this market segment is there are too many factors that can influence each company stock individually that were not tracked as part of this data analysis.
 
     - Example: Remaining images contained in project root
 ![alt text](sedg_season.png)
