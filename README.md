@@ -67,7 +67,9 @@ This project aims to develop a data-driven approach to analyzing the stock marke
 ![alt text](sedg_season.png)
 
 ## Future Enhancements
-- To be updated by inputs coming from class presentation
+- Further data analysis could include performing additional data correlation to produce insights related to volume and closing price.
+- The team could create more visuals that would help represent the related data elements and influences that are outside of the information we researched already.
+- Our team could incorporate more specific recommendations inclusive of profit and loss metrics to help give a more concise direction for investors. 
 
 ## Appendix / Reference
 - GitHub repo: https://github.com/galedione/project_1_group_2/tree/main
