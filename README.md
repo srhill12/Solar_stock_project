@@ -1,4 +1,4 @@
-<H1 style="text-align: center;">Natural Juicers</H1>
+
 <H2 style="text-align: center;">Top 7 Solar stock performance evaluation</H2>
 
 ## Executive Summary
